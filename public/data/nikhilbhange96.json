@@ -1,0 +1,23 @@
+{
+  "name": "Nikhil Bhange",
+  "location": "Pune, Maharashtra",
+  "bio": "A Passionate Full-Stack Web Developer capable of writing production-ready code using my skills such as Node.js, Express, MongoDB, React and JavaScript",
+  "avatar": "https://avatars.githubusercontent.com/u/172969814?v=4",
+  "portfolio": "https://github.com/nikhilbhange96",
+  "skills": ["Java",
+    "React js",
+    "HTML",
+    "CSS",
+    "Javascript",
+    "MERN Stack",
+    "POSTMAN",
+    "Python",
+    "SQL"],
+  "social": {
+    "GitHub": "https://github.com/nikhilbhange96",
+    "Twitter": "https://x.com/NikhilBhange96",
+    "LinkedIn": "https://www.linkedin.com/in/nikhil-bhange/",
+    "Instagram": "https://www.instagram.com/nikhil_bhange",
+    "Email": "nikhilbhange9696@gmail.com"
+  }
+}
